@@ -1,12 +1,5 @@
 # 🛍️ Vrinda Store Annual Sales Analysis | Excel Dashboard
 
-\<p align="center">
-&#x20; \<b>Transforming Retail Data into Actionable Business Insights\</b>
-\</p>
-
-
-
-\
 
 
 ## 📌 Project Overview
